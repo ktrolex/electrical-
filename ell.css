@@ -1,0 +1,222 @@
+body {
+    background-color: rgb(245, 239, 238);
+    width: 100%;
+    margin: 0px;
+    background-image: url(./00.png);
+    background-position :center ;
+    background-size:contain;
+    	Font-family:Snell Roundhand, cursive;
+}
+
+header {
+    background-color:green;
+    color: cornsilk;
+    text-align: center;
+    padding: 2rem;
+    	Font-family:Snell Roundhand, cursive;
+}
+
+h1 {
+    text-transform: uppercase;
+    margin: 0px;
+    	Font-family:Snell Roundhand, cursive;
+}
+
+p {
+    margin: 0px;
+    font-weight: bolder;
+    font-size: small;
+text-transform: uppercase;
+}
+
+nav {
+    background-color: green;
+    text-transform: capitalize;
+    margin-top: 1rem;
+    text-align: center;
+     font-size:xx-light; 
+     font-weight:bolder;                        
+     padding:8rem;
+     opacity:50%; 
+}
+
+ul {
+    text-align: center;
+    margin: 0rem;
+}
+
+li {
+    list-style-type: none;
+    margin: 3px;
+    display: inline-block;
+    padding: 10px;
+}
+
+a {
+    background-color: whitesmoke;
+    color: sienna;
+    font-weight: bolder;
+    border-radius: 5px;
+    padding: 1rem;
+    text-decoration: none;
+    margin: 0rem 3rem;
+    font-size: larger;
+}
+
+a:hover {
+    background-color: red;
+    color: whitesmoke;
+}
+
+footer {
+    clear: both;
+    text-align: center;
+    text-transform: capitalize;
+    background-color: black;
+    color: cornsilk;
+     margin-top: 2rem; 
+}
+
+#images {
+    background-color: tomato;
+    width: 100%;
+    margin: 1.5rem;
+    border-radius: 10px;
+}
+
+img {
+    width: 250px;
+    height: 180px;
+    margin: 1rem;
+    border-radius: 10px;
+}
+
+#table_menu {
+    background-color: cornsilk;
+    width: 100%;
+    margin: 1.5rem;
+}
+
+table {
+    width: 100%;
+    border: 2px;
+    border-collapse: collapse;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+td {
+    font-weight: bold;
+}
+
+th {
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+tr:nth-child(even) {
+    background-color: green;
+}
+
+.meal_type {
+    font-size: x-large;
+}
+
+.contact {
+    width: 100%;
+    height: 280px;
+    background-color: white;
+    margin: 2rem rem
+    padding: 1rem;
+    text-align: center;
+    text-align: center;
+                               font-size:xx-light;
+                               font-weight:bolder;
+                               color: brown;
+                               
+                               background-color:orange;
+                               border-radius:2rem;
+                               padding:5rem;
+                               opacity:50%; 
+}
+
+.text {
+    text-align:center;
+    Font-family:Snell Roundhand, cursive;
+     font-weight: bolder;
+    border-radius: 5px;
+    padding: 0.5rem;
+    text-decoration: none;
+    margin: 0rem 2rem;
+    font-size: small;
+}
+
+label {
+    text-align: left;
+    	Font-family:Snell Roundhand, cursive;
+}
+
+.home {
+    width: inherit;
+    height: 350px;
+    }
+button{
+				Font-family:Snell Roundhand, cursive;
+						width:100%;
+				padding: 12px;
+				margin:8px 0px;
+				border:1px solid yellow;
+				box-sizing: border-box;
+				height:5vh;
+}
+button:hover{
+				background:green
+}
+section{
+					Font-family:Snell Roundhand, cursive;
+					color:white;
+					margin-bottom: 2rem;
+					height: 100%;
+}
+h3{
+				text-transform: uppercase;
+				text-align:center;
+}
+.logo{
+				   width: 50px;
+    height: 80px;
+    margin: 1rem;
+    border-radius: 10px;
+}
+.search{
+				Font-family:Snell Roundhand, cursive;
+				width:100%;
+				padding: 12px;
+				margin:8px 0px;
+				border:1px solid black;
+				box-sizing: border-box;
+				text-transform: uppercase;
+}
+h2{
+	margin: 0px;
+    font-weight: bolder;
+    font-size: larger;
+    text-transform: uppercase;
+				text-align:center;
+}		
+.pie { text-align: center;
+                               font-size:xx-light;
+                               font-weight:bolder;
+                               color: brown;
+                               
+                               background-color:wheat;
+                               border-radius:2rem;
+                               padding:5rem;
+                               opacity:50%; 
+                               font-family: georgia;
+                               }
+.color{
+				color:green;
+}
